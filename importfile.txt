@@ -2,3 +2,5 @@
 2. npm i mongoose
 3. npm i validator
 4. npm i nodemon
+
+## MongoDb coonection string = mongodb+srv://omprakash2929:OMprakash@cluster0.w2pky18.mongodb.net/test
